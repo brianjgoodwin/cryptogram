@@ -137,13 +137,13 @@ aside {
   z-index: 2;
 }
 
-aside>button {
+/* aside>button {
   background-color: transparent;
   padding: 0.5em;
   margin: auto;
   width: 5em;
   display: block;
-}
+} */
 
 shadow {
   display: block;
